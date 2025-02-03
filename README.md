@@ -1,5 +1,2 @@
-Per l'avvio del videogioco è sufficiente eseguire il file JFantasyRunner.jar
-
-******************************************************************************
-
-To start the game simply run the JFantasyRunner.jar file
+To start the game simply run the JFantasyRunner.exe file in the "dist" folder.
+If this doesn't works try with the .jar file
